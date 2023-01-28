@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b471b9420bb488008f46e3502d40ed89",
+    "revision": "ad0d3ba4ef8315fcba9b0e2513034a75",
     "url": "/breath-meter-master/index.html"
   },
   {
-    "revision": "a392a88a865c9bfd0192",
+    "revision": "fd07ee8e2d5dfccbd29c",
     "url": "/breath-meter-master/static/css/main.2db55151.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/breath-meter-master/static/js/2.1d14430f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a392a88a865c9bfd0192",
-    "url": "/breath-meter-master/static/js/main.8cf52b87.chunk.js"
+    "revision": "fd07ee8e2d5dfccbd29c",
+    "url": "/breath-meter-master/static/js/main.e37bddf0.chunk.js"
   },
   {
     "revision": "84de9afc8c635cfd50ac",

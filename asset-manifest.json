@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/breath-meter-master/static/css/main.2db55151.chunk.css",
-    "main.js": "/breath-meter-master/static/js/main.8cf52b87.chunk.js",
-    "main.js.map": "/breath-meter-master/static/js/main.8cf52b87.chunk.js.map",
+    "main.js": "/breath-meter-master/static/js/main.e37bddf0.chunk.js",
+    "main.js.map": "/breath-meter-master/static/js/main.e37bddf0.chunk.js.map",
     "runtime-main.js": "/breath-meter-master/static/js/runtime-main.b8a8700e.js",
     "runtime-main.js.map": "/breath-meter-master/static/js/runtime-main.b8a8700e.js.map",
     "static/js/2.1d14430f.chunk.js": "/breath-meter-master/static/js/2.1d14430f.chunk.js",
     "static/js/2.1d14430f.chunk.js.map": "/breath-meter-master/static/js/2.1d14430f.chunk.js.map",
     "index.html": "/breath-meter-master/index.html",
-    "precache-manifest.8890c39390f25443ac5e5724bb0bf103.js": "/breath-meter-master/precache-manifest.8890c39390f25443ac5e5724bb0bf103.js",
+    "precache-manifest.45617e7e3848e3a29bb4dcc4aebd6503.js": "/breath-meter-master/precache-manifest.45617e7e3848e3a29bb4dcc4aebd6503.js",
     "service-worker.js": "/breath-meter-master/service-worker.js",
     "static/css/main.2db55151.chunk.css.map": "/breath-meter-master/static/css/main.2db55151.chunk.css.map",
     "static/js/2.1d14430f.chunk.js.LICENSE.txt": "/breath-meter-master/static/js/2.1d14430f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b8a8700e.js",
     "static/js/2.1d14430f.chunk.js",
     "static/css/main.2db55151.chunk.css",
-    "static/js/main.8cf52b87.chunk.js"
+    "static/js/main.e37bddf0.chunk.js"
   ]
 }

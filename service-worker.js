@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/breath-meter-master/precache-manifest.8890c39390f25443ac5e5724bb0bf103.js"
+  "/breath-meter-master/precache-manifest.45617e7e3848e3a29bb4dcc4aebd6503.js"
 );
 
 self.addEventListener('message', (event) => {
